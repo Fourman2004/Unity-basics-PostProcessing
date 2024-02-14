@@ -25,6 +25,9 @@ public class TriggerEnterSound : MonoBehaviour
 
   private void OnTriggerExit(Collider other)
   {
+        if (audioClip1)
+            audioSource.Stop();
+		
 		if(audioClip2)
 		  audioSource.PlayOneShot(audioClip2);  
   }
