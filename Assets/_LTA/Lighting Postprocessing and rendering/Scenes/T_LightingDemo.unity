@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 1031961542}
-  m_IndirectSpecularColor: {r: 0.34250385, g: 0.4082399, b: 0.4142738, a: 1}
+  m_IndirectSpecularColor: {r: 0.19962078, g: 0.23793122, b: 0.24144998, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: d469df704f6a142da845a8d276a9936d, type: 2}
+  m_LightingDataAsset: {fileID: 112000000, guid: 946758eb8d35849c2852d64a72bfda6a, type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: f6ad4febdaab52046a1120f63930757b, type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -176,7 +176,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 0.7939282, b: 0.28773582, a: 1}
-  m_Intensity: 7.46
+  m_Intensity: 6
   m_Range: 10
   m_SpotAngle: 55.128685
   m_InnerSpotAngle: 21.80208
@@ -5661,7 +5661,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh87994
+  m_Name: pb_Mesh89480
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
@@ -6823,7 +6823,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 1
+  m_Intensity: 0.7
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -8867,7 +8867,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh88024
+  m_Name: pb_Mesh89510
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
